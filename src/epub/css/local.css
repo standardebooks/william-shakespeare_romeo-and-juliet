@@ -16,6 +16,10 @@
 	font-style: italic;
 }
 
+[epub|type~="z3998:dramatis-personae"] ul + p{
+	margin-top: 2em;
+}
+
 [epub|type~="z3998:drama"]{
 	border-collapse: collapse;
 }
@@ -43,6 +47,7 @@
 
 [epub|type~="z3998:drama"] td[epub|type~="z3998:persona"]{
 	hyphens: none;
+	-epub-hyphens: none;
 	text-align: right;
 	width: 20%;
 }
@@ -71,17 +76,20 @@
 	font-variant: all-small-caps;
 }
 
+[epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
 	text-align: left;
 	text-indent: 0;
 }
 
+[epub|type~="z3998:song"] p > span,
 [epub|type~="z3998:verse"] p > span{
 	display: block;
 	text-indent: -1em;
 	padding-left: 1em;
 }
 
+[epub|type~="z3998:song"] p > span + br,
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
@@ -89,4 +97,14 @@
 section[epub|type~="z3998:scene"] > p{
 	margin: 1em auto;
 	width: 75%;
+}
+
+p span.i1{
+	text-indent: -1em;
+	padding-left: 2em;
+}
+
+p span.i2{
+	text-indent: -1em;
+	padding-left: 3em;
 }
