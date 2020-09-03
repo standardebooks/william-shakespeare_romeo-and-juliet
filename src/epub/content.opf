@@ -53,7 +53,9 @@
 		<meta property="se:subject">Drama</meta>
 		<dc:description id="description">The children of two opposing houses fall in love.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;LONG_DESCRIPTION&lt;/p&gt;
+			&lt;p&gt;Long Description.&lt;/p&gt;
+			&lt;p&gt;Long Description.&lt;/p&gt;
+			&lt;p&gt;This Standard Ebooks production is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://shakespeare.mit.edu/romeo_juliet/full.html</dc:source>
