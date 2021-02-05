@@ -49,7 +49,7 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2009118483</meta>
 		<meta property="authority" refines="#subject-7">LCSH</meta>
-		<meta property="term" refines="#subject-7">Unknown</meta>
+		<meta property="term" refines="#subject-7">sh2001009136</meta>
 		<meta property="se:subject">Drama</meta>
 		<dc:description id="description">The children of two opposing houses fall in love.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
