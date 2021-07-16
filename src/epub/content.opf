@@ -52,6 +52,8 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh2001009136</meta>
 		<meta property="se:subject">Drama</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">The children of two opposing houses fall in love.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Over four hundred years after it was first published, &lt;i&gt;Romeo and Juliet&lt;/i&gt; remains one of &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare&lt;/a&gt;’s most famous and most frequently performed plays. During the late 1500s many playwrights loved to base their plays off of Italian stories, and Shakespeare was no different; he was heavily influenced by the Italian tale “The Goodly History of the True and Constant Love of Romeo and Juliett.” Today &lt;i&gt;Romeo and Juliet&lt;/i&gt; continues to spread its influence within literature and performing arts. It has been adapted into 24 operas, numerous films, a ballet, and has also been referenced in law. The play has entertained generations with its romance, deception, revenge, sword-fighting, creative verse, comedic relief, and tragic fate.&lt;/p&gt;
