@@ -30,12 +30,12 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Romeo and Juliet</dc:title>
 		<meta property="file-as" refines="#title">Romeo and Juliet</meta>
-		<dc:subject id="subject-1">Vendetta -- Drama</dc:subject>
-		<dc:subject id="subject-2">Youth -- Drama</dc:subject>
-		<dc:subject id="subject-3">Verona (Italy) -- Drama</dc:subject>
-		<dc:subject id="subject-4">Juliet (Fictitious character) -- Drama</dc:subject>
-		<dc:subject id="subject-5">Romeo (Fictitious character) -- Drama</dc:subject>
-		<dc:subject id="subject-6">Conflict of generations -- Drama</dc:subject>
+		<dc:subject id="subject-1">Vendetta--Drama</dc:subject>
+		<dc:subject id="subject-2">Youth--Drama</dc:subject>
+		<dc:subject id="subject-3">Verona (Italy)--Drama</dc:subject>
+		<dc:subject id="subject-4">Juliet (Fictitious character)--Drama</dc:subject>
+		<dc:subject id="subject-5">Romeo (Fictitious character)--Drama</dc:subject>
+		<dc:subject id="subject-6">Conflict of generations--Drama</dc:subject>
 		<dc:subject id="subject-7">Tragedies</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008113176</meta>
